@@ -1,0 +1,13 @@
+/*외부 스타일 시트로 작성함*/
+h1 {
+  color: red;
+  background-color: white;
+}
+h3 {
+  color: yellow;
+  background-color: black;
+}
+h5 {
+  color: green;
+  background-color: black;
+}
